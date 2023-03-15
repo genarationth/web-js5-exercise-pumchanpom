@@ -7,7 +7,7 @@
 
 Open up a text editor of your choice and complete the following Javascript exercises.
 
-### Exercise #1
+### [Exercise #1](exercise1.js)
 
 #### Part 1
 There are three people waiting for the bank. Their names, in order, are Sofia, David, and Juan.
@@ -24,7 +24,7 @@ What does the queue look like?
 It turns out David was saving a spot for his friend Renata. She shows up and goes behind him in the line. One more person (Elena) shows up and goes to the end of the line.
 What does the queue look like?
 
-### Exercise #2
+### [Exercise #2](exercise2.js)
 
 Write a JavaScript program to construct the following pattern, using a nested for loop.
 
@@ -35,7 +35,8 @@ Write a JavaScript program to construct the following pattern, using a nested fo
 * * * *  
 * * * * *
 ```
-### Exercise #3
+### Exercise #3 
+[Part 1](exercise3_1.js) | [Part 2](exercise3_2.js) | [Part 3](exercise3_3.js) | [Part 4](exercise3_4.js)
 
 Write while loops to do the following:
 ```
